@@ -1,0 +1,26 @@
+/*
+CSS for the CSS Reminder plugin.
+*/
+.toplevel_page_css_reminder .welcome-panel-content {
+	margin-bottom: 2rem;
+}
+
+.toplevel_page_css_reminder .welcome-panel-content p {
+	font-size: 1rem;
+	color: #555;
+}
+
+.css-reminder-copy-buttons {
+	margin: 1rem 0;
+}
+
+.css-reminder-copy-buttons .success {
+	display: none;
+	color: #40860a;
+	margin-left: 0.5rem;
+}
+
+.css-reminder-copy-buttons .success.visible {
+	display: inline-block;
+	height: 30px;
+}
